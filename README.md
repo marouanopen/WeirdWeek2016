@@ -5,4 +5,4 @@ Group members:
 - Marouan Bakour
 - Jorrit Kramer
 - Linsey 
-- Stefan
+- Stefan Grimminck
